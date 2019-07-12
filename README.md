@@ -1,15 +1,11 @@
 # TRAINING MISSION BRIEF ASSETS #
 
 ## INTRODUCTION
-Image
-Text placeholder for the introduction. 
+Image  
+Text placeholder for the introduction.   
 Explain what it is in here, what purpose it servers, how it is collected.  
 
-## TRM SPINS 
-Image
-Text 
-
-## Navigation 
+### Navigation 
 This is all the information needed to be aware, plan and conduct any navigation in the TRM
 
 ### Map with NAVpoint Chart
@@ -19,14 +15,18 @@ Image of CF map with navpoints
 Link to table
 
 ### GND Charts
-Image of Kutaisi GND Chart
-Link to pdf Kutaisi GND Chart
-Link to pdf for the entire caucasus
+Image of Kutaisi GND Chart  
+Link to pdf Kutaisi GND Chart  
+[DCS Caucasus GND Charts](http://www.ariescon.com/DCS_GND_VAD_Charts_v36_030513x.zip)
 
 ### Caucasus FLIP
-Image of Kutaisi FLIP
-Link to pdf Kutaisi FLIP
-Link to pdf for the entire caucasus
+Image of Kutaisi FLIP  
+Link to pdf Kutaisi FLIP  
+[DCS Caucasus FLIP](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
+
+### TRM SPINS 
+Image  
+Text 
 
 ## Communication ##
 Image
