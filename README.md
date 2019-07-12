@@ -1,4 +1,4 @@
-# TRAINING MISSION BRIEF ASSETS #
+# 132nd TRAINING MISSION BRIEF ASSETS #
 
 ## INTRODUCTION
 Image  
@@ -26,7 +26,7 @@ Link to pdf Kutaisi FLIP
 
 ### TRM SPINS 
 Image  
-Text 
+` Text ` 
 
 ## Communication ##
 Image
