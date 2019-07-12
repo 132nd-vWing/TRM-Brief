@@ -1,18 +1,35 @@
 # TRAINING MISSION BRIEF ASSETS #
 
-## INTRODUCTION ##
+## INTRODUCTION
+Image
 Text placeholder for the introduction. 
 Explain what it is in here, what purpose it servers, how it is collected.  
 
-## TRM SPINS ##
+## TRM SPINS 
+Image
+Text 
 
-## Navigation ##
-Map with NAVpoint Chart
-NAVpoint Info
-GND Charts
-Caucasus FLIP
+## Navigation 
+This is all the information needed to be aware, plan and conduct any navigation in the TRM
+
+### Map with NAVpoint Chart
+Image of CF map with navpoints
+
+### NAVpoint Info
+Link to table
+
+### GND Charts
+Image of Kutaisi GND Chart
+Link to pdf Kutaisi GND Chart
+Link to pdf for the entire caucasus
+
+### Caucasus FLIP
+Image of Kutaisi FLIP
+Link to pdf Kutaisi FLIP
+Link to pdf for the entire caucasus
 
 ## Communication ##
+Image
 
 
 ## Ranges ##
