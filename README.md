@@ -1,3 +1,29 @@
+# TRAINING MISSION BRIEF ASSETS #
+
+## INTRODUCTION ##
+Text placeholder for the introduction. 
+Explain what it is in here, what purpose it servers, how it is collected.  
+
+## TRM SPINS ##
+
+## Navigation ##
+Map with NAVpoint Chart
+NAVpoint Info
+GND Charts
+Caucasus FLIP
+
+## Communication ##
+
+
+## Ranges ##
+
+
+
+
+
+
+
+
 # Welcome to briefing page for 132nd Virtual Wing standard Training mission: TRM
 
 
