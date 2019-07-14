@@ -45,7 +45,7 @@ Adjara Combined Joint Training Range consists of the following airspace (Please 
 Change from EXERCISE to Real world incident
 If Russian forces escalate the situation and pose a threat by violating allied airspace, it MAY be required to retask flights from the training, in order to support real operations. IF such a condition happens, the following CODEWORD will be given from AWACS: BARRACUDA.
 So, retasking will happen like this:  
-` AWACS: "Flight, BARRACUDA, Call ready for retasking"  
+` AWACS: "Flight, BARRACUDA, Call ready for retasking"  <br/>
 Flight: "Copy BARRCUDA, Ready for retasking"  `
 
 
@@ -237,19 +237,7 @@ All Tankers will RTB when low on fuel or damaged/killed. New tankers will get ai
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. Credits
-Thanks for the great contributions from the DCS community, and to highlight a few of the most important ones for the 132nd:
-- MIST(Speed&Grimes)
-- FlightControl for MOOSE:https://flightcontrol-master.github.io/MOOSE_DOCS/
-- CTLD
-- funkyfranky for the Range Script
-- 476th Noodle and Stuka for the 476th range targets: http://www.476vfightergroup.com/downloads.php?do=file&id=287
-- 476th Snoopy and Noodle for the 476 vFG Georgia Flight Info Pubs.: http://www.476vfightergroup.com/downloads.php?do=file&id=218
-- DArt for LotATC: https://www.lotatc.com/
-- Tacno for UniversRadio: http://tacnoworld.fr/universradio/
-- Upaut for various Mods: https://forums.eagle.ru/showthread.php?t=124251
-- Ranger79 for various mods: https://forums.eagle.ru/showthread.php?t=121620
-- Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use.`
+
 
 ## Communication
 Image
@@ -421,7 +409,19 @@ SPARE: Lasercode: 1571/1572/1573/1574 , GroupID 41
 
 
 
-# Welcome to briefing page for 132nd Virtual Wing standard Training mission: TRM
+## Credits
+Thanks for the great contributions from the DCS community, and to highlight a few of the most important ones for the 132nd:
+- MIST(Speed&Grimes)
+- FlightControl for MOOSE:https://flightcontrol-master.github.io/MOOSE_DOCS/
+- CTLD
+- funkyfranky for the Range Script
+- 476th Noodle and Stuka for the 476th range targets: http://www.476vfightergroup.com/downloads.php?do=file&id=287
+- 476th Snoopy and Noodle for the 476 vFG Georgia Flight Info Pubs.: http://www.476vfightergroup.com/downloads.php?do=file&id=218
+- DArt for LotATC: https://www.lotatc.com/
+- Tacno for UniversRadio: http://tacnoworld.fr/universradio/
+- Upaut for various Mods: https://forums.eagle.ru/showthread.php?t=124251
+- Ranger79 for various mods: https://forums.eagle.ru/showthread.php?t=121620
+- Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use.`
 
 
 
