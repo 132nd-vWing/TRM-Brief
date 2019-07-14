@@ -5,7 +5,7 @@ Image
 Text placeholder for the introduction.   
 Explain what it is in here, what purpose it servers, how it is collected.  
 
-### Navigation 
+### Navigation
 This is all the information needed to be aware, plan and conduct any navigation in the TRM
 
 ### Map with NAVpoint Chart
@@ -24,16 +24,18 @@ Image of Kutaisi FLIP
 Link to pdf Kutaisi FLIP  
 [DCS Caucasus FLIP](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-### TRM SPINS 
+### TRM SPINS
 Image  
-` 
+
 1. Situation
+` 
 General situation:
 In the period of 2008-2009 tension in the world politics increased. Because of this Georgia turned to the west to increase political, diplomatic and military support in a situation where Russia had incresed its military capability and had conducted several military exercises on the borders to Georgia.
 
 In 2009 Turkey and Georgia signed a deal where they establised a combined joint training range called Adjara Combined Joint Training Range (ACJTR).
 
 In 2010 the tension increased again, and Georgia invited their allies into Georgia to have, on a regular basis, an enhanced forward presence in order to deter any further Russian aggression. As part of the enhanced forward presence, the 132nd Virtual Wing have deployed to Kutaisi airbase. From time to time additional allied squadrons also deploy to Kutaisi airbase in order to use the facilities at ACJTR and the surrounding ranges.
+`
 
 Adjara Combined Joint Training Range consists of the following airspace (Please see google earth for more details):
 
@@ -45,6 +47,7 @@ AWACS: "Flight, BARRACUDA, Call ready for retasking"
 Flight: "Copy BARRCUDA, Ready for retasking"
 
 
+
 Timings
 Timings to be stated in event information.
 
@@ -54,7 +57,7 @@ Standard Units
 -Distance will be given in nautical miles.
 -Elevation will be given in feet AMSL unless otherwise stated.
 
-Air-to-Air specifics
+### Air-to-Air specifics
 Missile script is activated, so A-A flights can engage with missiles and it will give information about missile launches. DO NOT USE GUNS. Guns should only be simulated.
 
 So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call "This is Metal/Rage XX (number), DEAD, OFF SOUTH" and return to your initial point for another run.
@@ -71,27 +74,11 @@ RESTRICTIONS
 Air-to-Air: AT NO TIME should guns be used. Only missiles are allowed (Missiles will be destroyed by the missile script, but guns will kill the other asset).
 
 
-Frequencies
-AWACS	
-Check-in	237.000	(BLUE 3)
-A-G controller 1	229.000	(GREEN 4)
-A-G Controller 2	227.500	(YELLOW 1)
-A-A Controller 1	228.000	(ORANGE 10)
-A-A Controller 2	248.000	(GRAY 2)
-Air Request Net	21.00	(OLIVE 11)
-CSAR Freq	228.500	(BROWN 10)
-In flight Report net	234.000	(OCHRE 9)
-Alert Frequncy	246.750	(OLIVE 2)
-Admin frequency	247.250	(LIME 1)
-VHF Back-up	136.250	(INDIGO 6)
-SCRAMBLE	228.250	(VIOLET 10)
 
-AI AWACS (Overlord, NORTH area ): 307
-AI AWACS (Magic, SOUTH area): 306
 
 AGGRESSOR AWACS
 AI: 299.0 (Callsign 103)
-Human AWACS: 
+Human AWACS:
 
 ATC
 KUTAISI GROUND: 134.1
@@ -100,7 +87,7 @@ KUTAISI CONTROL: 127.1
 KUTAISI ATIS: 134.3
 KUTAISI PAR: 134.4
 
-Range Control of Adjara Combined Joint Training Range 
+Range Control of Adjara Combined Joint Training Range
 Frequency: 245.000 (RED 5)
 Callsign: WIZARD
 Rangeshave frequencies posted in range orders.
@@ -178,7 +165,7 @@ S-3 VIKING Carrier alert Tanker (TEXACO 2)
 8000ft, speed 380kts, TACAN 40Y, Freq: 242.0 (CHERRY 3)
 
 
-CARRIERS 
+CARRIERS
 CARRIER CVN STENNIS
 TACAN 74X "C_S"
 ICLS Channel 1
@@ -212,7 +199,7 @@ FALCON - 51 - 114Y
 HAWK - 52 - 115Y
 JEDI - 53 - 116Y
 RAVEN - 54 - 117Y
-SNAKE - 55 - 118Y 
+SNAKE - 55 - 118Y
 VENOM - 56 - 119Y
 RHINO: TACAN 57/120Y
 
@@ -251,10 +238,10 @@ https://www.dropbox.com/s/o0jseakjagu6y1x/2019-04-19%20Transponder_codes.pdf?dl=
 
 Authentication
 AET-100 + RAMROD
-https://www.dropbox.com/s/b6mbo7fw2wvnkfi/AET-100_RAMROD_v1.1.pdf?dl=0 
+https://www.dropbox.com/s/b6mbo7fw2wvnkfi/AET-100_RAMROD_v1.1.pdf?dl=0
 
 TAT-101
-https://www.dropbox.com/s/6aplu5oktunvclm/TAT-101_V1.2.pdf?dl=0 
+https://www.dropbox.com/s/6aplu5oktunvclm/TAT-101_V1.2.pdf?dl=0
 
 Ramrod is used as backup.
 
@@ -307,7 +294,7 @@ Relevant TTP's under documents: http://132virtualwing.org/index.php/page/documen
 132-TTP-4 Brevity v1.1
 132-TTP-5-ATC and Airbase operations v1.0
 132-TTP-6 SCAR v2.0
-132-TTP-8 Briefing Guide v1.1 
+132-TTP-8 Briefing Guide v1.1
 132-TTP-10-AWACS Procedures v2.0
 132-TTP-12 Armed Reconnaissance v1.0
 132-TTP-13 Air Interdiction v1.0
@@ -320,7 +307,7 @@ Relevant TTP's under documents: http://132virtualwing.org/index.php/page/documen
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Range orders
-ACJTR Range Complex (DRAFT 2_3): 
+ACJTR Range Complex (DRAFT 2_3):
 https://www.dropbox.com/s/9w0nbbqb5b01ghj/TRM_Range%20order%20ADJARA%20Combined%20Joint%20Training%20Range_DRAFT_2_3.pdf?dl=0
 
 
@@ -369,7 +356,7 @@ F/A-18C v1.0: https://www.dropbox.com/s/fghnj6p1h1y9a5b/TRM%20FA-18C%20Presets%2
 
 Missile Trainer
 Smokey Sam script preventing any anti-aircraft missiles from impacting in the proximity of a player aircraft. When you get in pit you should get this message: "132nd. Missile Trainer is active" . In case you do not see this message, the script is disabled and missiles will be lethal.
-The tracking/hit messages can be configured via F10 menu. 
+The tracking/hit messages can be configured via F10 menu.
 
 
 CTLD Logistics Script
@@ -384,22 +371,22 @@ CTLD units have the following options available via F10 radio:
 4. Deploy Smoke Markers
 5. Deploy Radio Beacons (A10, KA50, Huey and Mi-8 can home in on the beacons, all players can use F10 to get a list of active beacions)
 
-Pickupzones (for loading infantry): 
+Pickupzones (for loading infantry):
 1. In the range storages
 2. At the apron of Kutaisi
 3. At the FARPs
 
-Warehouses (for spawning slingload cargo) 
+Warehouses (for spawning slingload cargo)
 1. Range storages
 2. All allied airfields
 3. All allied FARPs
 
 Note for CTLD pilots
-Once you get in pit, make sure CTLD loaded up correctly for you. Do this simple test: F10 radio options see if CTLD shows up. If no, alternate between pressing F11 (previous) and F10 (other..) CTLD should show up after a few tries. 
+Once you get in pit, make sure CTLD loaded up correctly for you. Do this simple test: F10 radio options see if CTLD shows up. If no, alternate between pressing F11 (previous) and F10 (other..) CTLD should show up after a few tries.
 
 NOTE: WIP and will be included:
 Tankers and AWACS Respawn
-All Tankers will RTB when low on fuel or damaged/killed. New tankers will get airborne to ensure constant tanker coverage. Same for AWACS aircraft. See Mission Brief and SPINS for tanker frequencies and TACAN. 
+All Tankers will RTB when low on fuel or damaged/killed. New tankers will get airborne to ensure constant tanker coverage. Same for AWACS aircraft. See Mission Brief and SPINS for tanker frequencies and TACAN.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -417,7 +404,7 @@ Thanks for the great contributions from the DCS community, and to highlight a fe
 - Tacno for UniversRadio: http://tacnoworld.fr/universradio/
 - Upaut for various Mods: https://forums.eagle.ru/showthread.php?t=124251
 - Ranger79 for various mods: https://forums.eagle.ru/showthread.php?t=121620
-- Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use.` 
+- Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use.`
 
 ## Communication
 Image
@@ -425,7 +412,25 @@ Image
 ### Presets
 [ Link to Presets Lists ](https://132nd-vwing.github.io/OPUF-Brief/Docs/Presets.html)
 
-## Ranges 
+Frequencies
+AWACS
+Check-in	237.000	(BLUE 3)
+A-G controller 1	229.000	(GREEN 4)
+A-G Controller 2	227.500	(YELLOW 1)
+A-A Controller 1	228.000	(ORANGE 10)
+A-A Controller 2	248.000	(GRAY 2)
+Air Request Net	21.00	(OLIVE 11)
+CSAR Freq	228.500	(BROWN 10)
+In flight Report net	234.000	(OCHRE 9)
+Alert Frequncy	246.750	(OLIVE 2)
+Admin frequency	247.250	(LIME 1)
+VHF Back-up	136.250	(INDIGO 6)
+SCRAMBLE	228.250	(VIOLET 10)
+
+AI AWACS (Overlord, NORTH area ): 307
+AI AWACS (Magic, SOUTH area): 306
+
+## Ranges
 
 
 
