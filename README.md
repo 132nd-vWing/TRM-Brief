@@ -28,7 +28,7 @@ Link to pdf Kutaisi FLIP
 Image  
 
 1. Situation
-` 
+`
 General situation:
 In the period of 2008-2009 tension in the world politics increased. Because of this Georgia turned to the west to increase political, diplomatic and military support in a situation where Russia had incresed its military capability and had conducted several military exercises on the borders to Georgia.
 
