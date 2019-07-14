@@ -5,32 +5,32 @@ Image
 Text placeholder for the introduction.   
 Explain what it is in here, what purpose it servers, how it is collected.  
 
-### Navigation
+## Navigation
 This is all the information needed to be aware, plan and conduct any navigation in the TRM
 
-### Map with NAVpoint Chart
+## Map with NAVpoint Chart
 Image of CF map with navpoints
 
-### NAVpoint Info
+## NAVpoint Info
 Link to table
 Navpoints
 All navigation points and information about airspace, ranges, threatsites, JTAC locations, FARPs, Range storages please refer to TRM Google Earth link for current version:
 https://www.dropbox.com/s/13eqx28ic9d6ccm/TRM_Google_earth.kmz?dl=0
 
-### GND Charts
+## GND Charts
 Image of Kutaisi GND Chart  
 Link to pdf Kutaisi GND Chart  
 [DCS Caucasus GND Charts](http://www.ariescon.com/DCS_GND_VAD_Charts_v36_030513x.zip)
 
-### Caucasus FLIP
+## Caucasus FLIP
 Image of Kutaisi FLIP  
 Link to pdf Kutaisi FLIP  
 [DCS Caucasus FLIP](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-### TRM SPINS
+## TRM SPINS
 Image  
 
-1. Situation
+### Situation
 
 General situation:
 In the period of 2008-2009 tension in the world politics increased. Because of this Georgia turned to the west to increase political, diplomatic and military support in a situation where Russia had incresed its military capability and had conducted several military exercises on the borders to Georgia.
@@ -41,25 +41,25 @@ In 2010 the tension increased again, and Georgia invited their allies into Georg
 
 Adjara Combined Joint Training Range consists of the following airspace (Please see google earth for more details):
 
-2. SPINS (Special Instructions for aircrew)
+### SPINS (Special Instructions for aircrew)
 Change from EXERCISE to Real world incident
 If Russian forces escalate the situation and pose a threat by violating allied airspace, it MAY be required to retask flights from the training, in order to support real operations. IF such a condition happens, the following CODEWORD will be given from AWACS: BARRACUDA.
-So, retasking will happen like this:
-` AWACS: "Flight, BARRACUDA, Call ready for retasking"
+So, retasking will happen like this:  
+` AWACS: "Flight, BARRACUDA, Call ready for retasking"  
 Flight: "Copy BARRCUDA, Ready for retasking"  `
 
 
-3. Timings
+### Timings
 Timings to be stated in event information.
 
 
-4. Standard Units
+### Standard Units
 - Positions will be given in the following format: LAT/LONG. DD°MM.MMM'
 - Distance will be given in nautical miles.
 - Elevation will be given in feet AMSL unless otherwise stated.
 
 
-5. Air-to-Air specifics
+### Air-to-Air specifics
 Missile script is activated, so A-A flights can engage with missiles and it will give information about missile launches. DO NOT USE GUNS. Guns should only be simulated.
 
 So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call "This is Metal/Rage XX (number), DEAD, OFF SOUTH" and return to your initial point for another run.
@@ -72,7 +72,7 @@ Flights that are hit by a simulated missile impact (see in game notification), w
 AWACS controller on each side will give a call when flight can respawn and get back into action.
 
 
-6. RESTRICTIONS
+### RESTRICTIONS
 Air-to-Air: AT NO TIME should guns be used. Only missiles are allowed (Missiles will be destroyed by the missile script, but guns will kill the other asset).
 
 
