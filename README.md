@@ -75,10 +75,12 @@ In order to prevent an unwanted escalation, all flights are to remain 4nm away f
 ### Force QNH
 Any C2 agency (including FAC(A) and SCAR-C can establish a force QNH within his area of responsibility. This in-order to avoid unneccessary QNH changes. When operating on force QNH, the C2 agency need to make sure all assets are briefed on the QNH in use prior to entering the area.
 
-### Air-to-Air specifics
+## Air-to-Air specifics
 Missile script is activated, so A-A flights can engage with missiles and it will give information about missile launches. *DO NOT USE GUNS*. Guns should only be simulated.
 
-So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call ` This is Metal/Rage XX (number), DEAD, OFF SOUTH ` and return to your initial point for another run.
+So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call
+` This is Metal/Rage XX (number), DEAD, OFF SOUTH `
+and return to your initial point for another run.
 
 For simulating guns: When the engaging fighter is certain that he can score a gun kill, he calls ` Metal/Rage GUNS GUNS GUNS`  on his AWACS freq. The AWACS controllers are in contact with each other and will call ` Rage/Metal Knock it off, gunkill`  at which point the "killed" fighter will return to his initial point for another run. Make sure to state your callsign when calling guns, the controllers can see which aircraft in under attack and will call that aircraft, or, if needed, the flight for the ` Knock it off`  call.
 
