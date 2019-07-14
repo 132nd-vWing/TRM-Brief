@@ -14,7 +14,7 @@ Image of CF map with navpoints
 ## NAVpoint Info
 Link to table
 Navpoints
-All navigation points and information about airspace, ranges, threatsites, JTAC locations, FARPs, Range storages please refer to TRM Google Earth link for current version:
+All navigation points and information about airspace, ranges, threat sites, JTAC locations, FARPs, Range storages please refer to TRM Google Earth link for current version:
 https://www.dropbox.com/s/13eqx28ic9d6ccm/TRM_Google_earth.kmz?dl=0
 
 ## GND Charts
@@ -33,10 +33,8 @@ Image
 ### Situation
 
 General situation:
-In the period of 2008-2009 tension in the world politics increased. Because of this Georgia turned to the west to increase political, diplomatic and military support in a situation where Russia had incresed its military capability and had conducted several military exercises on the borders to Georgia.
-
-In 2009 Turkey and Georgia signed a deal where they establised a combined joint training range called Adjara Combined Joint Training Range (ACJTR).
-
+In the period of 2008-2009 tension in the world politics increased. Because of this Georgia turned to the west to increase political, diplomatic and military support in a situation where Russia had increased its military capability and had conducted several military exercises on the borders to Georgia.
+In 2009 Turkey and Georgia signed a deal where they established a combined joint training range called Adjara Combined Joint Training Range (ACJTR).
 In 2010 the tension increased again, and Georgia invited their allies into Georgia to have, on a regular basis, an enhanced forward presence in order to deter any further Russian aggression. As part of the enhanced forward presence, the 132nd Virtual Wing have deployed to Kutaisi airbase. From time to time additional allied squadrons also deploy to Kutaisi airbase in order to use the facilities at ACJTR and the surrounding ranges.
 
 Adjara Combined Joint Training Range consists of the following airspace (Please see google earth for more details):
@@ -49,35 +47,10 @@ So, retasking will happen like this:
 Flight: "Copy BARRCUDA, Ready for retasking"  `
 
 
-### Timings
-Timings to be stated in event information.
-
-
 ### Standard Units
 - Positions will be given in the following format: ` LAT/LONG. DD°MM.MMM'`
 - Distance will be given in nautical miles.
 - Elevation will be given in feet AMSL unless otherwise stated.
-
-
-### Air-to-Air specifics
-Missile script is activated, so A-A flights can engage with missiles and it will give information about missile launches. DO NOT USE GUNS. Guns should only be simulated.
-
-So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call "This is Metal/Rage XX (number), DEAD, OFF SOUTH" and return to your initial point for another run.
-
-For simulating guns: When the engaging fighter is certain that he can score a gun kill, he calls ` Metal/Rage GUNS GUNS GUNS`  on his AWACS freq. The AWACS controllers are in contact with each other and will call ` Rage/Metal Knock it off, gunkill`  at which point the "killed" fighter will return to his initial point for another run. Make sure to state your callsign when calling guns, the controllers can see which aircraft in under attack and will call that aircraft, or, if needed, the flight for the ` Knock it off`  call.
-
-Please be aware that the controllers can call ` Knock it off`  at any time should they feel the need. The word "Gunkill" is added to make sure you understand you were shot down.
-
-Flights that are hit by a simulated missile impact (see in game notification), will establish at FL100 or F200, and maintain a steady speed of 200kts, 300kts or 400kts to show that the flight is out of action.
-AWACS controller on each side will give a call when flight can respawn and get back into action.
-
-### Missile Trainer
-Smokey Sam script preventing any anti-aircraft missiles from impacting in the proximity of a player aircraft. When you get in pit you should get this message: "132nd. Missile Trainer is active" . In case you do not see this message, the script is disabled and missiles will be lethal.
-The tracking/hit messages can be configured via F10 menu.
-
-
-### RESTRICTIONS
-Air-to-Air: AT NO TIME should guns be used. Only missiles are allowed (Missiles will be destroyed by the missile script, but guns will kill the other asset).
 
 
 ## Airspace information
@@ -101,6 +74,23 @@ In order to prevent an unwanted escalation, all flights are to remain 4nm away f
 
 ### Force QNH
 Any C2 agency (including FAC(A) and SCAR-C can establish a force QNH within his area of responsibility. This in-order to avoid unneccessary QNH changes. When operating on force QNH, the C2 agency need to make sure all assets are briefed on the QNH in use prior to entering the area.
+
+### Air-to-Air specifics
+Missile script is activated, so A-A flights can engage with missiles and it will give information about missile launches. *DO NOT USE GUNS*. Guns should only be simulated.
+
+So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call ` This is Metal/Rage XX (number), DEAD, OFF SOUTH ` and return to your initial point for another run.
+
+For simulating guns: When the engaging fighter is certain that he can score a gun kill, he calls ` Metal/Rage GUNS GUNS GUNS`  on his AWACS freq. The AWACS controllers are in contact with each other and will call ` Rage/Metal Knock it off, gunkill`  at which point the "killed" fighter will return to his initial point for another run. Make sure to state your callsign when calling guns, the controllers can see which aircraft in under attack and will call that aircraft, or, if needed, the flight for the ` Knock it off`  call.
+
+Please be aware that the controllers can call ` Knock it off`  at any time should they feel the need. The word "Gunkill" is added to make sure you understand you were shot down.
+
+Flights that are hit by a simulated missile impact (see in game notification), will establish at FL100 or F200, and maintain a steady speed of 200kts, 300kts or 400kts to show that the flight is out of action.
+AWACS controller on each side will give a call when flight can respawn and get back into action.
+
+
+
+### RESTRICTIONS
+Air-to-Air: AT NO TIME should guns be used. Only missiles are allowed (Missiles will be destroyed by the missile script, but guns will kill the other asset).
 
 ## Aerial Refueling
 Tanker instructions
