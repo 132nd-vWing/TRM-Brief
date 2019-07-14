@@ -45,7 +45,7 @@ Adjara Combined Joint Training Range consists of the following airspace (Please 
 Change from EXERCISE to Real world incident
 If Russian forces escalate the situation and pose a threat by violating allied airspace, it MAY be required to retask flights from the training, in order to support real operations. IF such a condition happens, the following CODEWORD will be given from AWACS: BARRACUDA.
 So, retasking will happen like this:  
-` AWACS: "Flight, BARRACUDA, Call ready for retasking"  <br/>
+` AWACS: "Flight, BARRACUDA, Call ready for retasking"
 Flight: "Copy BARRCUDA, Ready for retasking"  `
 
 
@@ -54,7 +54,7 @@ Timings to be stated in event information.
 
 
 ### Standard Units
-- Positions will be given in the following format: LAT/LONG. DD°MM.MMM'
+- Positions will be given in the following format: ` LAT/LONG. DD°MM.MMM'`
 - Distance will be given in nautical miles.
 - Elevation will be given in feet AMSL unless otherwise stated.
 
@@ -64,12 +64,16 @@ Missile script is activated, so A-A flights can engage with missiles and it will
 
 So, as the missile script is active, it's okay to call fox1,2,3 and actually launch the missile. When hit, you will get a message displayed that you were hit. With that in mind, when you do get hit by a missile, call "This is Metal/Rage XX (number), DEAD, OFF SOUTH" and return to your initial point for another run.
 
-For simulating guns: When the engaging fighter is certain that he can score a gun kill, he calls "Metal/Rage GUNS GUNS GUNS" on his AWACS freq. The AWACS controllers are in contact with each other and will call "Rage/Metal Knock it off, gunkill" at which point the "killed" fighter will return to his initial point for another run. Make sure to state your callsign when calling guns, the controllers can see which aircraft in under attack and will call that aircraft, or, if needed, the flight for the "Knock it off" call.
+For simulating guns: When the engaging fighter is certain that he can score a gun kill, he calls ` Metal/Rage GUNS GUNS GUNS`  on his AWACS freq. The AWACS controllers are in contact with each other and will call ` Rage/Metal Knock it off, gunkill`  at which point the "killed" fighter will return to his initial point for another run. Make sure to state your callsign when calling guns, the controllers can see which aircraft in under attack and will call that aircraft, or, if needed, the flight for the ` Knock it off`  call.
 
-Please be aware that the controllers can call "Knock it off" at any time should they feel the need. The word "Gunkill" is added to make sure you understand you were shot down.
+Please be aware that the controllers can call ` Knock it off`  at any time should they feel the need. The word "Gunkill" is added to make sure you understand you were shot down.
 
 Flights that are hit by a simulated missile impact (see in game notification), will establish at FL100 or F200, and maintain a steady speed of 200kts, 300kts or 400kts to show that the flight is out of action.
 AWACS controller on each side will give a call when flight can respawn and get back into action.
+
+### Missile Trainer
+Smokey Sam script preventing any anti-aircraft missiles from impacting in the proximity of a player aircraft. When you get in pit you should get this message: "132nd. Missile Trainer is active" . In case you do not see this message, the script is disabled and missiles will be lethal.
+The tracking/hit messages can be configured via F10 menu.
 
 
 ### RESTRICTIONS
@@ -79,52 +83,53 @@ Air-to-Air: AT NO TIME should guns be used. Only missiles are allowed (Missiles 
 ## Airspace information
 Airspace in use: See Google Earth for airspaces in use: https://www.dropbox.com/s/nt92slbmku3n6bq/TRM_Google_earth.kmz?raw=1
 
-Kutaisi Terminal Maneouver Area:
+### Kutaisi Terminal Maneouver Area
 When operating within Kutaisi TMA, maintain two-way communication with KUTAISI CONTROL on 127.1, or as otherwise directed by ATC or AWACS.
 
 - KUTAISI TMA ceiling is FL180
 - Transition Level is FL085
 - Transition Altitude is 7000ft
 
-Altimeter Settings:
+### Altimeter Settings
 - QNH according to ATIS/METAR or ATC
 
-Russian airspace: All allied flights are to stay outside 2nm of the Russian border at all times in order to prevent an unwanted escalation of the situation. NOTE: This is not valid when flighs are tasked by AWACS is to enter Russian airspace in certain situations.
+### Russian airspace
+All allied flights are to stay outside 2nm of the Russian border at all times in order to prevent an unwanted escalation of the situation. NOTE: This is not valid when flighs are tasked by AWACS is to enter Russian airspace in certain situations.
 
-Zone around Russian ships: In order to prevent an unwanted escalation, all flights are to remain 4nm away from any Russian ship.
+### Zone around Russian ships
+In order to prevent an unwanted escalation, all flights are to remain 4nm away from any Russian ship.
 
-Force QNH: Any C2 agency (including FAC(A) and SCAR-C can establish a force QNH within his area of responsibility. This in-order to avoid unneccessary QNH changes. When operating on force QNH, the C2 agency need to make sure all assets are briefed on the QNH in use prior to entering the area.
+### Force QNH
+Any C2 agency (including FAC(A) and SCAR-C can establish a force QNH within his area of responsibility. This in-order to avoid unneccessary QNH changes. When operating on force QNH, the C2 agency need to make sure all assets are briefed on the QNH in use prior to entering the area.
 
-Aerial Refueling
+## Aerial Refueling
 Tanker instructions
 
-Altimeter setting.
+### Altimeter setting
 Unless otherwise directed an altimeter setting of standard pressure setting (29.92) is to be used for AAR operations.
 
-Vertical separation.
+### Vertical separation
 Receivers are to join from below and are to maintain a minimum of 1000ft vertical separation (unless otherwise directed by the controlling agency) , until visual contact have been made.
 
-Clearance.
+### Clearance
 Receivers must receive clearance from the controlling agency (AWACS) before contacting the tanker.
 
-Joining procedures.
+### Joining procedures.
 The left side of the tanker is to be used for joining aircraft. The first receiver of a formation may join directly astern the boom, when the receiver has visually confirmed that no refueling is in progress.
 
-Missile Trainer
-Smokey Sam script preventing any anti-aircraft missiles from impacting in the proximity of a player aircraft. When you get in pit you should get this message: "132nd. Missile Trainer is active" . In case you do not see this message, the script is disabled and missiles will be lethal.
-The tracking/hit messages can be configured via F10 menu.
 
 
-Joint Terminal Attack Controllers
+
+## Joint Terminal Attack Controllers
 JTAC's will use range tactical frequencies (primary or secondary pending situation).
 
 
-Combat Search and Rescue
+## Combat Search and Rescue
 CSAR can be conducted in two ways:
--Pre-planned CSAR. If the purpose of the mission is to conduct a rescue operation of a downed pilot
--Immediate CSAR. Occurs if a pilot is shot down during a mission, and AWACS or Air Mission Commander order a CSAR operation to rescue the downed pilot.
+1. Pre-planned CSAR. If the purpose of the mission is to conduct a rescue operation of a downed pilot
+2. Immediate CSAR. Occurs if a pilot is shot down during a mission, and AWACS or Air Mission Commander order a CSAR operation to rescue the downed pilot.
 
-CSAR Task force
+### CSAR Task force
 CSAR Task force can consist of the following assets:
 -Recovery asset. Normally a MI-8. If possible one primary and one secondary helicopter.
 -Fixed wing rescue escort (RESCORT). Normally A-10s flying overhead pattern to stay close to recovery vehicles.
@@ -132,27 +137,23 @@ CSAR Task force can consist of the following assets:
 -Support assets. Tanker and AWACS
 -Rescue Combat Air Patrol. Air-to air capable fixed wing aircrafts securing the airspace above the CSAR Area of Operations (AO).
 
-Duties
+### Duties
 -Air Mission Commander (AMC). Coordinates the mission as it progresses. Preferably AMC is the AWACS controller. If AWACS is unavailable, AMC will be filled by the role of the most senior flightlead.
 -On-Scene Commander(OSC). Coordinates the rescue efforts at the rescue site. Initially this will be the wingman of the downed pilot.
 
-Callsigns
+### Callsigns
 -Rescue Helicopter: PEDRO
 -Rescue Escort: SANDY. SANDY 1 will be the On-Scene Commander. If no AWACS is present, SANDY 1 will be both OSC and AMC
 
-MAYDAY call. MAYDAY calls are to be broadcasted at GUARD frequency (243.000). Include Bullseye position (direction and distance from the Bullseye).
+### MAYDAY call
+MAYDAY calls are to be broadcasted at GUARD frequency (243.000). Include Bullseye position (direction and distance from the Bullseye).
 
 If time permits, coordinate with AWACS on flights designated frequency
 
-CSAR Frequency
+### CSAR Frequency
 All CSAR operations are to be conducted on dedicated CSAR frequency. All assets involved in a CSAR operation should monitor this frequency. If several CSAR operations are conducted at the same time, AWACS will designated other frequencies for CSAR.
 Primary CSAR frequency is: 228.500 (BROWN 10)
 
-RAMROD
-Ramrod is an authentication code. RAMROD is a 10 letter word where none of the letters appear twice. To authenticate the challenger selects two letters in the authentication code, one of each side of the desired response. The correct response is the letter bracketed by the challenge. For example using the word COMPLEXIFY, you challenge by saying: Authenticate "PAPA-ECHO" and the reply should be: "I authenticate LIMA"
-Standing RAMROD:
--Even days (2,4,6,8 etc): LUMBERJACK
--Odd days (1,3,5,7 etc): COMPLEXITY
 
 
 Governing documents
@@ -393,7 +394,11 @@ SPARE: Lasercode:1611/1612/1613/1614
 SPARE: Lasercode:1621/1622/1623/1624
 SPARE: Lasercode: 1571/1572/1573/1574 , GroupID 41
 
-
+RAMROD
+Ramrod is an authentication code. RAMROD is a 10 letter word where none of the letters appear twice. To authenticate the challenger selects two letters in the authentication code, one of each side of the desired response. The correct response is the letter bracketed by the challenge. For example using the word COMPLEXIFY, you challenge by saying: Authenticate "PAPA-ECHO" and the reply should be: "I authenticate LIMA"
+Standing RAMROD:
+-Even days (2,4,6,8 etc): LUMBERJACK
+-Odd days (1,3,5,7 etc): COMPLEXITY
 
 
 
